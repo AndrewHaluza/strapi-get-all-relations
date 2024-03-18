@@ -1,0 +1,5 @@
+.env
+node_modules
+relations.json
+table.csv
+package-lock.json
